@@ -3,7 +3,6 @@
 We’re a team of tech enthusiasts that uses technology to empower businesses and turn your ideas into reality. Whether you’re a small start-up or a large corporation, we craft custom solutions that help businesses succeed. From websites to e-commerces platforms to mobile apps.
 
 ### :technologist: Services
----
 #### :desktop_computer: Websites
 We develop a fully functional, visually appealling and user-friendly websites that help your business estabilish a strong online presence, utilizing the latest technologies and industry best practices. It helps increase your visibility on search engines, drive more traffic to your site, and ultimately convert more visitors into customers.
 <br><br>
