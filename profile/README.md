@@ -1,1 +1,1 @@
-### Welcome to Codeful!
+## Hi there, welcome to the Codeful! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
