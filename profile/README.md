@@ -1,4 +1,4 @@
-## Hi there, welcome to Codeful! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br><br><a href="" title="Versão em Português"><img src="https://img.shields.io/badge/Versão%20em%20Português-FEDD00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=009739" height="24" alt="Versão em Portugês"></a>
+## Hi there, welcome to Codeful! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br><br><a href="https://github.com/codefulagency/.github/blob/main/profile/README.pt-BR.md" title="Versão em Português"><img src="https://img.shields.io/badge/Versão%20em%20Português-FEDD00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=009739" height="24" alt="Versão em Portugês"></a>
 
 We’re a team of tech enthusiasts that uses technology to empower businesses and turn your ideas into reality. Whether you’re a small start-up or a large corporation, we craft custom solutions that help businesses succeed. From websites to e-commerces platforms to mobile apps.
 
